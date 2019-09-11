@@ -9,5 +9,20 @@
   "author": "Lambda School",
   "devDependencies": {
     "nodemon": "^1.19.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lawsonarichard/WebDB-II.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lawsonarichard/WebDB-II/issues"
+  },
+  "homepage": "https://github.com/lawsonarichard/WebDB-II#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.19.4",
+    "sqlite3": "^4.1.0"
   }
 }
